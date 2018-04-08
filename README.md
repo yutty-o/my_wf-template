@@ -1,1 +1,1 @@
-# my_wf-template
+# my_wf_template
